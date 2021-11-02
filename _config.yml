@@ -3,3 +3,5 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Captain Gavin Fansite
 descritption: For all your captain gavin related needs
+
+theme: jekyll-theme-slate
