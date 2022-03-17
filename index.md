@@ -1,6 +1,7 @@
 ## Captain Gavin Fansite
 
- [editor on GitHub](https://github.com/NatunaSushi/NatunaSushi.github.io/edit/main/index.md)
+ 
+ [CLICK THIS TO CHECK OUT THE CAPTAIN GAVIN ORIGINS](https://palugod.tripod.com/Gavin.htm)
 
 
 ```markdown
@@ -126,6 +127,8 @@ wizzard in the city." said ryuji ryuji.
 "You know what I would like? A dry banana." said deadly [y/n]. With him distracted with that our hero stabbed him so dean boyd fucking dies.
 
 
-[Link](url) and ![Image](src)
+
 ```
+[developer shit](https://github.com/NatunaSushi/NatunaSushi.github.io/edit/main/index.md)
+
 
