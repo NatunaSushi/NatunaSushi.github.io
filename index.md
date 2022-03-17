@@ -8,7 +8,7 @@
 #It is difficult to fully describe why I love Captain Gavin, so here is his fanfiction I made
 
 
-One day, deadly Iy/n] was
+One day, deadly [y/n] was
 walking to school when...
 ...a stranger in the street said "Could i have your autograph?"
 "Please, sign my pebble " said the rather attractive female stranger "and my breasts please" deadly
