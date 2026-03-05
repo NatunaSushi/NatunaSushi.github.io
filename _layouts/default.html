@@ -14,7 +14,7 @@
   </head>
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
- <object data="NOTREAL.pdf" width="1000" height="1000" type='application/pdf'/> 
+
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
@@ -28,6 +28,7 @@
     </header>
 
     <main id="content" class="main-content" role="main">
+       <object data="NOTREAL.pdf" width="1000" height="1000" type='application/pdf'/> 
       {{ content }}
 
       <footer class="site-footer">
