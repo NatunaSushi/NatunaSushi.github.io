@@ -4,11 +4,11 @@
 
 ### I HATE CAPTAIN GAVIN
 
-
+![something terrifying](NOTREAL.png)
 
 ## HE IS NOT WHAT HE SEEMS
 
-
+![This was made with ai](NOTREAL2.png)
 
 ## WAKE UP SHEEPLE
 
